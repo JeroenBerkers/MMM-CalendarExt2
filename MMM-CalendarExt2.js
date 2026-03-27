@@ -276,7 +276,7 @@ Module.register("MMM-CalendarExt2", {
   },
 
   getStyles () {
-    return ["MMM-CalendarExt2.css"];
+    return ["MMM-CalendarExt2.css", "custom.css"];
   },
 
   start () {
